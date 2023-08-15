@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="surakshitha" /> </p>
 
-- 🔭 I’m currently working on **Washington Metro Trains**
+- 🌱 I’m currently learning **Vue.js, System Design**
 
-- 🌱 I’m currently learning **Vue.js, Android dev**
-
-- 🤝 I’m looking for help **finding a Software developer job, mock interviews & constructive feedback, professional mentoring**
+- 🤝 I’m looking for help **finding a Software developer full time job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surakshitha](https://github.com/surakshitha)
 
-- 💬 Ask me about **IT & Life Sciences, Javascript frameworks**
+- 💬 Ask me about **IT & Life Sciences, Javascript frameworks, Saas products**
 
 - 📫 How to reach me **suraksha.s09@gmail.com**
 
